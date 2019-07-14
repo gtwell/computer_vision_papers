@@ -73,3 +73,6 @@ class SELayer(nn.Module):
 
 ![12](./images/12.png)
 
+## references
+
+1. <https://zhuanlan.zhihu.com/p/52925608>
